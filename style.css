@@ -1,3 +1,25 @@
-.containter {
+body {
+    width: 150px;
+}
+.container {
     color: blue;
+    width: 150px;
+    font-weight: bold;
+}
+
+#b325 {
+    border: 1px solid green;
+}
+
+.b326{
+    border: 1px solid green;
+    
+}   
+
+.b329 {
+    font-weight: bold;
+}
+
+p.big {
+    background: yellow;
 }
